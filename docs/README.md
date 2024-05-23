@@ -1,4 +1,5 @@
 # top5spotify
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pVICpSF3J8?si=-2A0Kfp4j95Sm21K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 This project is a Spotify Web Application that uses [Flask](https://flask.palletsprojects.com/en/3.0.x/), [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/), [Bootstrap](https://getbootstrap.com/), Python, HTML, and CSS.
 
 The project will give the user an overview of their favorite artists and some information about them!
@@ -61,5 +62,4 @@ If you would like to add your own code to our program the following commands mig
 ```
 
 Also, whenever you run this applciation it will create a file called .cache which you are going to want to delete each time. If you have this file and try to let a new person use the applciation it will still show your results.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pVICpSF3J8" frameborder="0" allowfullscreen></iframe>
 
