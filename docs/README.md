@@ -51,7 +51,7 @@ To run the application simply type
 ### `flask run`
 
 into the console and it should bring you to our webpage!
-## To acutally get the result run the terminal which should output a url of 127.0.0.1:5000/ which you put into your browser log in with spoitfy and get yout top5
+## To acutally get the result run the terminal which should output a url of 127.0.0.1:5000/ which you put into your browser log in with spoitfy and get your top5
 
 ## Other Helpful Things
 
