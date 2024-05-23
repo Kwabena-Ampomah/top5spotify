@@ -1,5 +1,5 @@
 # top5spotify
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/0pVICpSF3J8?si=-2A0Kfp4j95Sm21K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://github.com/Kwabena-Ampomah/top5spotify/assets/104928224/9dc800a1-9e61-49b2-ad0e-454c231d505f)
+https://github.com/Kwabena-Ampomah/top5spotify/assets/104928224/9dc800a1-9e61-49b2-ad0e-454c231d505f
 This project is a Spotify Web Application that uses [Flask](https://flask.palletsprojects.com/en/3.0.x/), [Spotipy](https://spotipy.readthedocs.io/en/2.22.1/), [Bootstrap](https://getbootstrap.com/), Python, HTML, and CSS.
 
 The project will give the user an overview of their favorite artists and some information about them!
